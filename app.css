@@ -73,7 +73,7 @@ body {
   border: 3px solid hsl(0, 0%, 95%);
 }
 
-@media (min-width: 376px) {
+@media (min-width: 450px) {
   body {
     margin-top: 15vh;
   }
