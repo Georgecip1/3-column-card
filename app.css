@@ -63,7 +63,10 @@ body {
 .white2 {
   color: hsl(0, 0%, 95%);
 }
-
+.img {
+  min-width: 20px;
+  min-width: 20px;
+}
 .button:hover {
   color: hsl(0, 0%, 95%);
   background-color: inherit;
