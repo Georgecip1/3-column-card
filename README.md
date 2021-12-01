@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Georgecip1/3-column-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Georgecip1/3-column-card)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
 
