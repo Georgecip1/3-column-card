@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](/relative/path/to/hover.jpg?raw=true)
-![Alt text](/relative/path/to/main_computer.jpg?raw=true)
-![Alt text](/relative/path/to/main_phone.jpg?raw=true)
+![Alt text](https://user-images.githubusercontent.com/92641867/144148341-97b1ced1-ce69-40ac-9097-c8af3dfd6dcb.png)
+![Alt text](https://user-images.githubusercontent.com/92641867/144148348-ef61256c-b7c6-4f17-afc0-e878664799a7.png)
+![Alt text](https://user-images.githubusercontent.com/92641867/144148349-6341633e-58ae-44fd-ba48-2c09dac251b5.png)
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
